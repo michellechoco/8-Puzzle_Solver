@@ -1,6 +1,6 @@
-# 8 Puzzle Solver
+# 8-Puzzle Solver
 
-An 8 puzzle solver based on the A* algorithm. 
+An 8-puzzle solver based on the A* algorithm. This project was created for one of M2M Tech Inc's AI workshop series.
 
 ### References
 - https://gist.github.com/flatline/838202

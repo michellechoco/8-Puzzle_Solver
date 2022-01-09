@@ -1,4 +1,4 @@
-# 8-Puzzle Solver
+# 8 Puzzle Solver
 
 An 8 puzzle solver based on the A* algorithm. 
 
